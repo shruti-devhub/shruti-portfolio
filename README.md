@@ -1,4 +1,4 @@
-Ŵwŵ²# Shruti Mishra – Portfolio Website
+#Shruti Mishra – Portfolio Website
 
 This is my personal portfolio website created to showcase my skills, projects, and work as a frontend web developer.
 
