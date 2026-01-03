@@ -11,7 +11,7 @@ The website is designed with a clean and simple layout and is fully responsive a
 - GitHub Pages
 
 ## 🌐 Live Website
-(Add your GitHub Pages link here)
+ https://shruti-devhub.github.io/shruti-portfolio/
 
 ## 📂 Projects Included
 - Personal Portfolio Website
@@ -19,4 +19,4 @@ The website is designed with a clean and simple layout and is fully responsive a
 
 ## 📌 Purpose
 This portfolio is created to present my work to clients and recruiters and provide an easy way to connect with me.
-![Portfolio Preview] (preview.png)
+
